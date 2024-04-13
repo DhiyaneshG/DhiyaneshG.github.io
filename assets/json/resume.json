@@ -62,8 +62,7 @@
         "Quantum Mechanics",
         "Special Relativity",
         "Quantum Field theory",
-        "Particle Physics",
-        "Numerical Methods"
+        "Particle Physics"
       ]
     },
     {
@@ -73,6 +72,16 @@
       "keywords": [
         "Group theory",
         "Metric Space Topology"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Fortran",
+        "Python",
+        "Numerical Methods"
       ]
     }
   ],
