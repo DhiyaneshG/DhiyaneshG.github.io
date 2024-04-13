@@ -8,13 +8,7 @@
     "url": "https://dhiyaneshg.github.io",
     "summary": " A third year Int.MSc Physics student at UM-DAE-CEBS",
     "Address": "UM-DAE Centre for Excellence in Basic Sciences,<br> Takshashila Hostel, University of Mumbai, Vidyanagari, <br> Mumbai-400098, India.",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [],
   "volunteer": [ ],
@@ -32,7 +26,7 @@
   ],"projects": [
     {
       "name": "Spinor Helicity Formalism Part 1 ",
-      "summary": "Spinor helicity formalism provides a method for calculating scattering cross sections in high energy QCD calculations. In the first part of this project I have learnt the conventional method of calculating scattering amplitude and cross section and their application in QED. The basic concepts learnt will be used in the second part of the project in which we will learn the helicity amplitude formalism and its application to QCD. ",
+      "summary": "Spinor helicity formalism provides a method for calculating scattering cross sections in high energy QCD calculations. In the first part of this project I have learnt the conventional method of calculating scattering amplitude and cross section and their application in QED. ",
       "highlights": ["Relativistic Quantum mechanics","Quantum Field theory", "Particle physics"],
       "startDate": "2023",
       "endDate": "2024",
@@ -70,6 +64,15 @@
         "Quantum Field theory",
         "Particle Physics",
         "Numerical Methods"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Group theory",
+        "Metric Space Topology"
       ]
     }
   ],
