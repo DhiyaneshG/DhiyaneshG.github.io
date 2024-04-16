@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here is a collection of projects that I have done.
 nav: true
 nav_order: 3
-display_categories: [summer]
+display_categories: [Physics]
 horizontal: false
 ---
 
