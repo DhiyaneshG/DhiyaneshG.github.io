@@ -101,6 +101,11 @@ div.list-groups {
   align-content: center;
 }
 
+li.list-group-item {
+  text-align: justify;
+}
+
+//custom
 div.list-group {
   display: flex;
   flex-wrap: wrap;

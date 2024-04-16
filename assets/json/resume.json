@@ -26,7 +26,7 @@
   ],"projects": [
     {
       "name": "Spinor Helicity Formalism Part 1 ",
-      "summary": "Spinor helicity formalism provides a method for calculating scattering cross sections in high energy QCD calculations. In the first part of this project I have learnt the conventional method of calculating scattering amplitude and cross section and their application in QED. ",
+      "summary": "Spinor helicity formalism provides a method for calculating scattering cross sections in high energy QCD calculations. In the first part of this project I have learnt the conventional method of calculating scattering amplitude and cross section and their application in QED.",
       "highlights": ["Relativistic Quantum mechanics","Quantum Field theory", "Particle physics"],
       "startDate": "2023",
       "endDate": "2024",
